@@ -12,8 +12,7 @@ e-plantShopping is an online plant store built with React. The application allow
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-
+  
 ## Features
 
 - **Product Grid:** Browse through a list of plants available for purchase.
